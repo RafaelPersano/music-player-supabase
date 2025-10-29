@@ -1,0 +1,7 @@
+
+body{font-family:Inter,system-ui,Arial;padding:20px;background:#f4f6fb}
+.container{max-width:980px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+input,select{padding:8px;margin:6px 0;width:100%;box-sizing:border-box}
+button{padding:8px 12px;margin-right:8px}
+table{width:100%;border-collapse:collapse;margin-top:12px}td,th{padding:8px;border-bottom:1px solid #eee}
+.nav{display:flex;gap:12px;align-items:center}

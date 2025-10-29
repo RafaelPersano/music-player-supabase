@@ -1,0 +1,10 @@
+{
+  "name": "music-player-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.32.0",
+    "node-fetch": "^3.3.2",
+    "formidable": "^2.1.1"
+  }
+}
